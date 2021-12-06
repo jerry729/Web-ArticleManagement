@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"D:\add\org\apache\ibatis\builder\xml\mybatis-3-config.dtd">
+<configuration>
+
+	<mappers>
+		<mapper resource="com/mapper/SysuserMapper.xml" />
+		<mapper resource="com/mapper/BookMapper.xml" />
+	</mappers>
+
+</configuration>
